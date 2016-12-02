@@ -15,3 +15,6 @@ end
 
 dog = Animal.new("Jam","pug")
 dog.print
+
+
+# the idea in this repository is difference of class in javascript and ruby 
