@@ -10,6 +10,7 @@
   class Engine < Car
 
     def soundd
+      sleep 120
       puts "HUHHUHUHU"
     end
 
